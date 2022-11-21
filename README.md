@@ -3,9 +3,11 @@
 Used to Generate all Sorts of Data Sequences.
 Outputs can be strings, ints, floats, or hex.
 Following patterns are aviable for generation:
-  Random 
-  Related Random (Drunken Walk)
-  Sine
-  Ramp Up
-  Ramp Down
+  Random, 
+  Related Random (Drunken Walk),
+  Sine,
+  Ramp Up,
+  Ramp Down, 
+  
+Special Generation Options can be choosen per Generator
   
